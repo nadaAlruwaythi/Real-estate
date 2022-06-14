@@ -12,9 +12,9 @@ Tool & library:
 * Seaborn
 
 About Data:
--Years: 2014 to 2016
--Number of deals: 79975 after clean 77613
--Number of features: 33
+- Years: 2014 to 2016
+- Number of deals: 79975 after clean 77613
+- Number of features: 33
 
 Tableau:
 
